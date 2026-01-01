@@ -1,0 +1,122 @@
+2026-01-01 00:49:45,325 - __main__ - INFO - Starting Miku Nakano Bot...
+2026-01-01 00:49:47,006 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
+2026-01-01 00:50:13,391 - plugins.start - INFO - New user started bot: 7159587636 (@None)
+2026-01-01 00:50:22,972 - plugins.chat - ERROR - Error generating response: Client error '401 Unauthorized' for url 'https://api.anthropic.com/v1/messages'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-01-01 00:50:53,852 - plugins.start - INFO - New user started bot: 7159587636 (@None)
+2026-01-01 01:03:13,426 - __main__ - INFO - Starting Miku Nakano Bot...
+2026-01-01 01:03:15,109 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
+2026-01-01 01:03:53,488 - plugins.start - INFO - New user started bot: 7159587636 (@None)
+2026-01-01 01:04:15,931 - utils.rate_limit - WARNING - Rate limit exceeded for user 7159587636
+2026-01-01 01:04:20,399 - utils.rate_limit - WARNING - Rate limit exceeded for user 7159587636
+2026-01-01 01:04:26,201 - utils.rate_limit - WARNING - Rate limit exceeded for user 7159587636
+2026-01-01 01:04:35,093 - utils.rate_limit - WARNING - Rate limit exceeded for user 7159587636
+2026-01-01 01:04:47,631 - utils.rate_limit - WARNING - Rate limit exceeded for user 7159587636
+2026-01-01 01:05:17,648 - plugins.start - INFO - New user started bot: 7731483367 (@arigatosenpai7)
+2026-01-01 01:05:41,290 - utils.rate_limit - WARNING - Rate limit exceeded for user 7731483367
+2026-01-01 01:05:44,815 - utils.rate_limit - WARNING - Rate limit exceeded for user 7731483367
+2026-01-01 01:10:47,148 - __main__ - INFO - Starting Miku Nakano Bot...
+2026-01-01 01:10:48,831 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
+2026-01-01 01:11:10,481 - utils.rate_limit - WARNING - Rate limit exceeded for user 7731483367
+2026-01-01 01:11:20,077 - utils.rate_limit - WARNING - Rate limit exceeded for user 7731483367
+2026-01-01 01:14:04,621 - __main__ - INFO - Starting Miku Nakano Bot...
+2026-01-01 01:14:06,283 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
+2026-01-01 01:23:50,077 - __main__ - INFO - Starting Miku Nakano Bot...
+2026-01-01 01:23:51,748 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
+2026-01-01 01:24:08,491 - plugins.start - INFO - New user started bot: 7159587636 (@None)
+2026-01-01 01:27:17,602 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:17,602 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:18,616 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:18,616 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:20,122 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:20,123 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:22,391 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:22,392 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:25,772 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:25,773 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:30,845 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:30,845 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:38,451 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:38,452 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:49,848 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:27:49,848 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:28:06,950 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:28:06,951 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:28:32,590 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:28:32,590 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:29:02,610 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:29:02,611 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:29:32,622 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:29:32,622 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:30:02,637 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:30:02,637 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:30:32,654 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:30:32,654 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:31:02,667 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:31:02,667 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:31:32,685 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:31:32,686 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:32:02,702 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:32:02,703 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:32:32,722 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:32:32,723 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:33:02,729 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:33:02,731 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:33:32,740 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:33:32,740 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:34:02,759 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:34:02,759 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:34:32,767 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:34:32,768 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:35:02,774 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:35:02,776 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:35:32,785 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:35:32,786 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:36:02,800 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:36:02,800 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:36:32,806 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:36:32,807 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:37:02,819 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:37:02,820 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:37:32,837 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:37:32,837 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:38:02,846 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:38:02,846 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:38:32,858 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:38:32,858 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:39:02,865 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:39:02,866 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:39:32,877 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:39:32,877 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:40:02,882 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:40:02,882 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:40:32,889 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:40:32,889 - __main__ - ERROR - Exception while handling an update: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-01-01 01:40:58,252 - __main__ - INFO - Starting Miku Nakano Bot...
+2026-01-01 01:41:01,228 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
+2026-01-01 01:41:06,464 - plugins.start - INFO - New user started bot: 7159587636 (@None)
+2026-01-01 01:44:05,147 - plugins.start - INFO - New user started bot: 6474559054 (@None)
+2026-01-01 13:23:04,206 - __main__ - INFO - Starting Miku Nakano Bot...
+2026-01-01 13:23:05,891 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
+2026-01-01 13:23:27,475 - plugins.start - INFO - New user started bot: 7159587636 (@None)
+2026-01-01 13:31:40,071 - plugins.start - INFO - New user started bot: 7363967303 (@Bhosade)
+2026-01-01 13:37:37,894 - plugins.chat - ERROR - Error generating response: Timed out
+2026-01-01 13:38:27,659 - __main__ - INFO - Starting Miku Nakano Bot...
+2026-01-01 13:38:29,726 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
+2026-01-01 14:34:54,287 - __main__ - INFO - Starting Miku Nakano Bot...
+2026-01-01 14:34:55,963 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
+2026-01-01 14:35:08,500 - plugins.start - INFO - New user started bot: 6523160404 (@THE_GOD_OF_FIRE)
+2026-01-01 14:35:11,561 - __main__ - ERROR - Exception while handling an update: Can't parse entities: can't find end of the entity starting at byte offset 157
+2026-01-01 14:36:10,690 - __main__ - ERROR - Exception while handling an update: Timed out
+2026-01-01 14:36:54,961 - plugins.admin - INFO - Admin 7159587636 blocked user 7963660551
+2026-01-01 14:37:01,878 - __main__ - ERROR - Exception while handling an update: Can't parse entities: can't find end of the entity starting at byte offset 480
+2026-01-01 14:37:13,069 - __main__ - ERROR - Exception while handling an update: Can't parse entities: can't find end of the entity starting at byte offset 480
+2026-01-01 14:37:39,459 - plugins.admin - ERROR - Failed to send broadcast to 6542804853: Forbidden: bot can't initiate conversation with a user
+2026-01-01 14:37:42,127 - plugins.admin - INFO - Broadcast completed by 7159587636: 5/6 successful
+2026-01-01 14:37:59,338 - __main__ - ERROR - Exception while handling an update: Can't parse entities: can't find end of the entity starting at byte offset 555
+2026-01-01 15:11:01,941 - __main__ - INFO - Starting Miku Nakano Bot...
+2026-01-01 15:11:03,578 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
+2026-01-01 15:14:00,859 - plugins.start - INFO - New user started bot: 7159587636 (@None)
+2026-01-01 15:22:52,410 - __main__ - INFO - Starting Miku Nakano Bot...
+2026-01-01 15:22:54,096 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
+2026-01-01 15:23:42,938 - __main__ - ERROR - Exception while handling an update: Can't parse entities: can't find end of the entity starting at byte offset 555
