@@ -120,3 +120,75 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-01-01 15:22:52,410 - __main__ - INFO - Starting Miku Nakano Bot...
 2026-01-01 15:22:54,096 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
 2026-01-01 15:23:42,938 - __main__ - ERROR - Exception while handling an update: Can't parse entities: can't find end of the entity starting at byte offset 555
+2026-01-01 23:52:12,420 - __main__ - INFO - Starting Miku Nakano Bot...
+2026-01-01 23:52:14,179 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
+2026-01-01 23:52:29,623 - plugins.sticker_setup - INFO - User 7663391548 queried sticker: CAACAgIAAyEFAASqCZ6BAAK8ZmlWu1iE1oiAbXDGEjOYnHJfGbXRAAJ1HgAC2JLRSsU5mDOZCQq2OAQ
+2026-01-01 23:52:30,595 - plugins.sticker_setup - INFO - User 7663391548 queried sticker: CAACAgUAAyEFAASqCZ6BAAK8aGlWu1iHhBP7VkTYr9_zC6QAAdPCHAAC6RUAAuo9GVYW8a1VYFtaMTgE
+2026-01-01 23:52:33,302 - plugins.sticker_setup - INFO - User 7663391548 queried sticker: CAACAgIAAyEFAASqCZ6BAAK8b2lWu1jwuWYMcFKfqB4EjFwq6lcrAALmewACGWPRSxTl8OsZHOexOAQ
+2026-01-01 23:52:44,483 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:52:46,605 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:52:48,590 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:52:50,461 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:52:54,854 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:52:56,795 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:52:58,676 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:52:59,569 - plugins.sticker_setup - INFO - User 7919401669 queried sticker: CAACAgUAAyEFAASqCZ6BAAK8mWlWu1j-1qDcrKhfeZqYeh7h1awzAAKVGwAC23GxV_wEMKTO0zN2OAQ
+2026-01-01 23:53:01,050 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:53:06,123 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:53:07,963 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:53:08,346 - __main__ - ERROR - Exception while handling an update: Flood control exceeded. Retry in 12 seconds
+2026-01-01 23:53:09,731 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:53:15,114 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:53:17,780 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:53:27,278 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:53:29,763 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-01 23:53:42,932 - __main__ - INFO - Starting Miku Nakano Bot...
+2026-01-01 23:53:44,741 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
+2026-01-01 23:54:28,271 - plugins.sticker_setup - INFO - User 8599470037 queried sticker: CAACAgUAAyEFAASAvH6dAAECV4xpVrtq62SOFpNPMe_b-YqZ3q9UiQACURkAAiMZoFU-9iLpk313zzgE
+2026-01-01 23:55:00,254 - __main__ - INFO - Starting Miku Nakano Bot...
+2026-01-01 23:55:02,156 - __main__ - INFO - Bot started successfully! Press Ctrl+C to stop.
+2026-01-01 23:55:05,576 - plugins.start - INFO - New user started bot: 7159587636 (@None)
+2026-01-01 23:55:06,106 - plugins.start - INFO - New user started bot: 7159587636 (@None)
+2026-01-01 23:55:06,601 - plugins.start - INFO - New user started bot: 7159587636 (@None)
+2026-01-01 23:56:03,756 - __main__ - ERROR - Exception while handling an update: Timed out
+2026-01-02 00:07:40,324 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-02 00:07:53,698 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-02 00:07:55,620 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-02 00:08:17,156 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-02 00:08:29,181 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-02 00:08:47,847 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-02 00:08:49,808 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-02 00:08:53,835 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-02 00:08:57,368 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-02 00:09:02,663 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-02 00:09:04,508 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-02 00:09:09,035 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-01-02 00:09:13,891 - plugins.chat - ERROR - Error generating response: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429

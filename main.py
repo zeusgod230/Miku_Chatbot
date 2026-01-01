@@ -8,14 +8,12 @@ from utils.logger_chat import setup_logging
 
 logger = logging.getLogger(__name__)
 
-
 def main():
 
     setup_logging(LOG_LEVEL)
     logger.info("Starting Miku Nakano Bot...")
 
     application = Application.builder().token(BOT_TOKEN).build()
-
     application.add_handler(CommandHandler("start", start.start_command))
     application.add_handler(CommandHandler("help", help_command.help_command))
     application.add_handler(CommandHandler("stats", stats.stats_command))
