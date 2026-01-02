@@ -13,7 +13,6 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-# Load stickers from JSON file
 MIKU_STICKERS = {}
 
 
