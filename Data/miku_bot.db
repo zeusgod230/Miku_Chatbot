@@ -1,0 +1,1 @@
+print("This bot uses an SQLite database. The database file will be created automatically the first time the instance runs.") 
