@@ -1,35 +1,36 @@
+# Use a lightweight official Python image
 FROM python:3.11-slim
+
+# Prevent Python from writing pyc files
+ENV PYTHONDONTWRITEBYTECODE=1
+
+# Ensure stdout/stderr are not buffered (better logs)
+ENV PYTHONUNBUFFERED=1
+
+# Set working directory inside container
 WORKDIR /app
 
-# Install system dependencies (if needed)
+# Install system dependencies (optional but safe)
 RUN apt-get update && apt-get install -y \
+    gcc \
+    build-essential \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy requirements file
+# Copy requirements first (better Docker cache)
 COPY requirements.txt .
 
 # Install Python dependencies
-RUN pip install --no-cache-dir --upgrade pip && \
-    pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy application code
-COPY bot.py .
+# Copy the rest of the project
+COPY . .
 
-# Create directory for logs and data
-RUN mkdir -p /app/logs /app/data
+# Create logs directory if not present
+RUN mkdir -p logs
 
-EXPOSE 8080
-
-# Set environment variables (override these when running)
-ENV TELEGRAM_TOKEN="" \
-    GEMINI_API_KEY="" \
-    OWNER_USER_ID="" \
-    PORT=8080 \
-    PYTHONUNBUFFERED=1
-
-# Health check (Docker will mark container as healthy)
-HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
-    CMD python -c "import http.client; conn = http.client.HTTPConnection('localhost', 8080); conn.request('GET', '/health'); response = conn.getresponse(); exit(0 if response.status == 200 else 1)"
+# Expose nothing (Telegram bots don't need ports)
+# EXPOSE 8000  ❌ not needed
 
 # Run the bot
-CMD ["python", "-u", "bot.py"]
+CMD ["python", "main.py"]
+
