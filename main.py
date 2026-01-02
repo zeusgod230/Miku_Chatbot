@@ -9,7 +9,7 @@ from utils.logger_chat import setup_logging
 logger = logging.getLogger(__name__)
 
 def main():
-
+ 
     setup_logging(LOG_LEVEL)
     logger.info("Starting Miku Nakano Bot...")
 
