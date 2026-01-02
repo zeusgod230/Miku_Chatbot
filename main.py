@@ -35,6 +35,6 @@ def main():
 
 async def error_handler(update: Update, context):
     logger.error(f"Exception while handling an update: {context.error}")
-
+ 
 if __name__ == "__main__":
     main()
