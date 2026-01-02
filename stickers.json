@@ -1,25 +1,22 @@
 {
-  "greeting": [fjfyuutfcuuj, tfumuftumrjf,
-  ],
-  "thinking": [trfumfcm, trjmtrfmfm,
-],
-  "happy": [trfumrcmjr, rtfmunfuhn,
-  ],
-  "annoyed": [trfumfcnuf, rxtumrujrxcu,
-  ],
-  "shy": [rtfumfcujm, rtumrum,
-  ],
-  "cool": [rtumfmjr, rtumrum,        
-],
-  "studying": [rtdumrcm, rdtumru,
-  ],
-  "music": [erstjnj, esrnyexn,
-  ]
-}
-
-{
+  "greeting": ["fjfyuutfcuuj", "tfumuftumrjf"],
+  
+  "thinking": ["trfumfcm", "trjmtrfmfm"],
+  
+  "happy": ["trfumrcmjr", "rtfmunfuhn"],
+  
+  "annoyed": ["trfumfcnuf", "rxtumrujrxcu"],
+  
+  "shy": ["rtfumfcujm", "rtumrum"],
+  
+  "cool": ["rtumfmjr", "rtumrum"],
+  
+  "studying": ["rtdumrcm", "rdtumru"],
+  
+  "music": ["erstjnj", "esrnyexn"],
+  
   "sticker": {
-  "emoji": "❤️",
-  "text": "make your-own sticker set by pasting here links of hosted stickers or contact me"
+    "emoji": "❤️",
+    "text": "make your-own sticker set by pasting here links of hosted stickers or contact me"
   }
 }
