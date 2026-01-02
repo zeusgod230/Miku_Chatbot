@@ -8,7 +8,6 @@ import logging
 logger = logging.getLogger(__name__)
 db = Database(DATABASE_PATH)
 
-
 @check_blocked
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = update.effective_user
