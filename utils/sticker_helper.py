@@ -1,6 +1,3 @@
-"""
-Sticker helper for sending contextual stickers with messages
-"""
 
 import random
 import re
